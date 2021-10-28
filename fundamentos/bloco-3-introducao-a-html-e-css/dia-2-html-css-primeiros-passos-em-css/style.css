@@ -1,0 +1,35 @@
+h1{
+    color: orange;
+    font-family: sans-serif;
+}
+body{
+    background-color: grey;
+    font-size: 16px;
+
+}
+#primal-tittle {
+    font-size: 65px;
+}
+.nao-ordenada {
+    background-color: yellow;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 40px;
+    text-align: center;
+    text-decoration:underline;
+
+}
+p{
+    font-family: fantasy, sans-serif;
+    font-weight: 600;
+    font-size: 3em;
+}
+#yellow{
+    background-color: yellow;
+}
+#vermelho{
+    background-color: red;
+}
+#brown{
+    background-color: saddlebrown;
+}
